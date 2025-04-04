@@ -4,7 +4,7 @@ export const metadata = {
   title: "My Todo App",
   description: "A simple and smart todo app",
   icons: {
-    icon: "/favicon.ico",
+    icon: "./favicon.ico",
   },
 };
 
